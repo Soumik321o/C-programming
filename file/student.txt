@@ -1,0 +1,5 @@
+Student's name    age   phone number
+
+Soumik		 21	1927430420
+Faisal		 20	1917442428
+Arif		 21	1912744663
